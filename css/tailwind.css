@@ -16,7 +16,7 @@
 }
 
 .btn {
-    @apply rounded shadow-lg py-1 px-4 bg-gray-500 mx-auto block
+    @apply rounded shadow-lg py-1 px-4 bg-gray-500  block
 }
 
 .bnt-primary {

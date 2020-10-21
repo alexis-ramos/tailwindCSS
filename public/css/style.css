@@ -655,8 +655,6 @@ video {
   --bg-opacity: 1;
   background-color: #a0aec0;
   background-color: rgba(160, 174, 192, var(--bg-opacity));
-  margin-left: auto;
-  margin-right: auto;
   display: block
 }
 
